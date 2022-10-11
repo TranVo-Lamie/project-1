@@ -1,0 +1,42 @@
+body {
+    background-color:antiquewhite;
+    }
+#first-heading{
+    background-color:brown; 
+    color:whitesmoke;
+    text-align:center;
+    padding:20px;
+    font-size: 20px;
+    font-family: "hwt-artz",sans-serif;
+}
+h1{
+    font-family: "hwt-artz",sans-serif;
+    font-size: 100px;
+    color:darkred;
+    text-align:center;
+    padding: 50px;
+    font-weight:bolder;
+}
+h2{
+    font-family:"hwt-artz",sans-serif;
+    font-size: 30px;
+    color:brown;
+    font-style: oblique;
+    text-align:center;
+}
+.button{
+    display:flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    height:20px;
+    background-color:whitesmoke;
+}
+.localstore{
+    justify-content: center;
+}
+.contacts{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
